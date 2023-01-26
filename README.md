@@ -10,8 +10,9 @@ The home of the Tree.NFT framework. - [Currently in v.01](https://github.com/tia
 3. To create easily scalable decentralized projects of conservation, reforestation, and production.
 
 # Current Development
-1. Next.JS storefront for launching RWAs to the public via fiat on-ramps. Link to temp CMV3 UI >> [First Test - CM Error](https://trees-nft.vercel.app/) |  [Code](https://github.com/tiamoesg/trees.NFT/tree/main/pages) -- and here is where our future development will start with Next.JS [Ground Up Build](https://github.com/tiamoesg/RWAdrops.store)
-2. Tree.NFTv01 Structure + Attribute Development [Current Structure Example](https://github.com/tiamoesg/trees.NFT/blob/main/tree-nft.json) 
+1. Tree.NFTv01 Structure + Attribute Development [Current Structure Example](https://github.com/tiamoesg/trees.NFT/blob/main/tree-nft.json) 
+2. Creating a front end UI template for Tree.NFT projects to mint from.
+3. Launching first pilot program of 7000 Tree.NFTs
 
 # Future Development -- Tree.NFT
 1. Getting Tree.NFT structure to v1 >>
